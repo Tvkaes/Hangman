@@ -19,7 +19,7 @@ my_word = validacion(plbrs)
 advn = []
 errores = []
 
-intnt = 7
+intnt = 6
 
 while intnt > 0:
     plbr_out = ""
