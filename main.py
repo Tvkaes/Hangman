@@ -48,6 +48,7 @@ while intnt > 0:
         print("No acertaste Intentalo otra vez")
         intnt = intnt - 1
         print(hngmn[intnt])
+        errores.append(letra)
 
     if intnt == 0:
         print("Perdiste la palabra era: ", my_word)
